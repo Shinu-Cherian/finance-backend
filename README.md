@@ -53,4 +53,4 @@ This is a backend API project. There is no homepage UI. Please use the following
 ![Admin](images/admin.png)
 
 ### Record Detail (Update/Delete)
-![Detail](images/detail.png)
+![Detail](images/details.png)
