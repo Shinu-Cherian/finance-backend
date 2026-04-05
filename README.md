@@ -40,3 +40,17 @@ This is a backend API project. There is no homepage UI. Please use the following
 - http://127.0.0.1:8000/api/records/
 - http://127.0.0.1:8000/api/dashboard/summary/
 - http://127.0.0.1:8000/admin/
+
+## Screenshots
+
+### Financial Records API
+![API](images/api.png)
+
+### Dashboard Summary
+![Dashboard](images/dashboard.png)
+
+### Admin Panel
+![Admin](images/admin.png)
+
+### Record Detail (Update/Delete)
+![Detail](images/detail.png)
